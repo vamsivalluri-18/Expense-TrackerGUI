@@ -1,0 +1,8 @@
+2025-06-17 | Food | 500.0 | Restaurant fare
+2025-06-17 | Bills | 300.0 | Recharge
+2025-06-17 | Travel | 250.0 | Auto fare
+2025-06-17 | Food | 1000.0 | Restaurant
+2025-06-17 | Travel | 3000.0 | Trip
+2025-06-17 | Bills | 2100.0 | Recharge
+2025-06-17 | Shopping | 4000.0 | Shopping
+2025-06-17 | Shopping | 10000.0 | Shopping
