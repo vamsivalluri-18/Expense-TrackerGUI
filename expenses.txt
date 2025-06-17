@@ -6,3 +6,9 @@
 2025-06-17 | Bills | 2100.0 | Recharge
 2025-06-17 | Shopping | 4000.0 | Shopping
 2025-06-17 | Shopping | 10000.0 | Shopping
+2025-06-17 | Entertainment | 2000.0 | Movies
+2025-06-17 | Education | 20000.0 | Child Education fee
+2025-06-17 | Healthcare | 2000.0 | parents Health checkup
+2025-06-17 | Rent | 8000.0 | Room Rent
+2025-06-17 | Savings | 10000.0 | Monthly Savings
+2025-06-17 | Others | 2500.0 | Petrol etc...
